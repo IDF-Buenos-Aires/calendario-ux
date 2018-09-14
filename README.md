@@ -11,3 +11,4 @@ Las damas, los niños y el contenido primero |  16 Agosto 2018   | IXDA Bs As | 
 UX Terror Movie Workshop | 16 Agosto 2018 | DataArt & CSSConf Argentina | https://goo.gl/KWtWnz
 IDF Bs As - Meetup Agosto 2018 | 23 Agosto 2018 | IDF Bs As | https://www.meetup.com/es-ES/IDF-Buenos-Aires/
 Design Research - Workshop |  4 Septiembre 2018   | Shiftseven | http://www.shiftseven.co/workshops/design-research
+Lanzamiento 5 | 2 Noviembre 2018 | Meetup UX La Plata | -
